@@ -1,0 +1,5 @@
+Installation
+git clone :https://github.com/Vian1999/1ND0TR0J4N-X
+cd toolss
+chmod +x Tools.py
+python Tools.py
